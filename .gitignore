@@ -146,7 +146,6 @@ cython_debug/
 # =========================
 
 # YOLO model weights
-*.pt
 *.onnx
 *.engine
 *.tflite

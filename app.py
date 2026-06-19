@@ -12,11 +12,11 @@ app = Flask(__name__)
 # MODEL PATHS
 # =========================
 DEFAULT_MODELS = {
-    "pedestrian": r"E:\Summer_internship_26-Object_detection_using_dashboard\yolo_pedestrian\best.pt",
-    "rickshaw": r"E:\Summer_internship_26-Object_detection_using_dashboard\yolo_rickshaw\final\Rickshaw_Model\rickshaw_yolo11s_25epoch\weights\best.pt",
-    "2_wheeler": r"E:\Summer_internship_26-Object_detection_using_dashboard\yolo_pedestrian\yolov8s_e150_best.pt",
-    "speed_breaker": r"E:\Summer_internship_26-Object_detection_using_dashboard\yolo_bump\best.pt",
-    "car": r"E:\Summer_internship_26-Object_detection_using_dashboard\yolo_car\best.pt"
+    "pedestrian": "models/pedestrian.pt",
+    "rickshaw": "models/rickshaw.pt",
+    "2_wheeler": "models/pedestrian.pt",
+    "speed_breaker": "models/speed_bump.pt",
+    "car": "models/car.pt"
 }
 
 UPLOAD_DIR = "uploads"
