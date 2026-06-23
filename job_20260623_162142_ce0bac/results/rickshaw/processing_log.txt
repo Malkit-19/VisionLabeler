@@ -1,0 +1,1 @@
+Detection Type: rickshaw\nConfidence: 0.7\nProcessed Frames: 300\nTotal Detections: 97\nMatched Auto Images and Labels: 88\n

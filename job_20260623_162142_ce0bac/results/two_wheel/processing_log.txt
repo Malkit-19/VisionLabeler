@@ -1,0 +1,1 @@
+Detection Type: two_wheel\nConfidence: 0.7\nProcessed Frames: 300\nTotal Detections: 233\nMatched Auto Images and Labels: 165\n
